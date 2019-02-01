@@ -33,3 +33,12 @@ Launches the test runner and generates a coverage report.<br>
 - Finish implementing some of the other calculator functions (e.g. percent, backspace, decimal)
 - Fix remaining bugs
 - Jest snapshot tests to check if UI is rendered properly
+
+## Screenshots
+
+<img src="https://github.com/tarekw/ee-calculator/raw/master/screenshotss/ee-calculator.png"/>
+
+
+For any feedback/question, feel free to contact me: tarek@wahab.me.uk
+
+Thanks!
