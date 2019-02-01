@@ -79,6 +79,10 @@ class Calculator extends Component {
     // TODO
   }
 
+  handlePercent = (e) => {
+    // TODO
+  }
+
   render() {
     return (
       <div className="calculator-container">

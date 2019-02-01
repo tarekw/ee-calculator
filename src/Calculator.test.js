@@ -118,6 +118,9 @@ it('should set × operator to display', () => {
 it.skip('should append decimal properly', () => {
 });
 
+it.skip('should handle percent calculation', () => {
+});
+
 it('should display result of addition', () => {
   const wrapper = shallow(<Calculator />);
   const sevenButton = wrapper.find('button').at(4);
