@@ -36,7 +36,7 @@ Launches the test runner and generates a coverage report.<br>
 
 ## Screenshots
 
-<img src="https://github.com/tarekw/ee-calculator/raw/master/screenshotss/ee-calculator.png"/>
+<img width="400" src="https://github.com/tarekw/ee-calculator/raw/master/screenshots/ee-calculator.png"/>
 
 
 For any feedback/question, feel free to contact me: tarek@wahab.me.uk
